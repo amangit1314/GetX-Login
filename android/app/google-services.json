@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "385917801527",
+    "project_id": "getx-sample-login",
+    "storage_bucket": "getx-sample-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385917801527:android:7909e69019a19262aa1bb2",
+        "android_client_info": {
+          "package_name": "com.example.firebase_getx_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385917801527-3gcrgpamhhqcrarq5elea97f4s6oskjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApvZmUT0MIEOwWcKYrHIB1grJOnshaAnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385917801527-3gcrgpamhhqcrarq5elea97f4s6oskjo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
